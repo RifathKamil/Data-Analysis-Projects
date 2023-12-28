@@ -10,8 +10,8 @@ Sample size of the survey - 120
 
 Mode of collection - [Online Google Forms](https://forms.gle/n76UwWfq91EnoMZ96)
 
-Files: [PDF File](https://github.com/RifathKamil/Rifath-Kamil-Projects/blob/Business-Analytics-MBA---Competative-Analysis/Rifath%20Kamil%20Edu-tech%20competative%20analysis.pdf) ,
- [DOC File](https://github.com/RifathKamil/Rifath-Kamil-Projects/blob/main/Rifath%20Kamil%20Edu-tech%20competative%20analysis.doc)
+Files: [PDF File](https://github.com/RifathKamil/Rifath-Kamil-Projects/blob/main/Edu-Tech%20Competative%20Analysis.pdf) ,
+ [DOC File](https://github.com/RifathKamil/Rifath-Kamil-Projects/blob/main/Edu-Tech%20Competative%20Analysis.docx)
 
 
 
